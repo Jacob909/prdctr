@@ -1,0 +1,886 @@
+"","Race","Background","Class","SubClass","Level","Health","Armor"
+"1","Deep Gnome","Acolyte","Warlock","The Celestial",20,260,15
+"2","Human","Hermit","Monk","Way of the Four Elements",20,200,20
+"3","Wood Elf","Guild Artisan","Wizard","School of Conjuration",20,122,13
+"4","Kenku","Clan Crafter","Warlock","The Great Old One",20,220,16
+"5","Human","Folk Hero","Cleric","War Domain",20,203,24
+"6","Dragonborn","Hermit","Barbarian","Path of the Totem Warrior",20,285,20
+"7","Half-Elf","Faction Agent","Sorcerer","Draconic Bloodline",20,182,17
+"8","Tiefling","Charlatan","Warlock","The Hexblade",20,260,18
+"9","Tiefling","Noble","Paladin","Oath of Ancients",20,280,20
+"10","Gray Dwarf","Acolyte","Paladin","Oath of Ancients",19,266,21
+"11","Stout Halfling","Cloistered Scholar","Wizard","School of Necromancy",16,144,11
+"12","Dragonborn","Haunted One","Fighter","Battle Master",16,216,16
+"13","Turtle","Criminal","Druid","Circle of the Land",16,153,14
+"14","Goblin","Criminal","Sorcerer","Wild Magic",16,104,13
+"15","Lizardfolk","Mercenary Veteran","Fighter","Champion",16,164,16
+"16","Human","Noble","Wizard","School of Conjuration",16,130,10
+"17","High Elf","Inheritor","Warlock","The Great Old One",16,111,14
+"18","Human","Knight","Paladin","Oath of Devotion",16,229,18
+"19","Wood Elf","Noble","Ranger","Beast Master",16,150,16
+"20","Human","Soldier","Paladin","Oath of Vengeance",15,169,18
+"21","Human","Soldier","Barbarian","Path of the Totem Warrior",15,201,20
+"22","Human","Pirate","Barbarian","Path of the Totem Warrior",15,201,20
+"23","Mountain Dwarf","Clan Crafter","Fighter","Champion",15,169,20
+"24","Human","Soldier","Paladin","Oath of Vengeance",15,132,16
+"25","High Elf","Urban Bounty Hunter","Fighter","Eldritch Knight",15,139,24
+"26","Half-Orc","Far Traveler","Paladin","Oath of Vengeance",15,153,16
+"27","High Elf","Sailor","Fighter","Battle Master",15,170,16
+"28","Deep Gnome","Mercenary Veteran","Barbarian","Path of the Berserker",15,200,15
+"29","Half-Orc","Knight","Fighter","Battle Master",15,225,16
+"30","Half-Elf","Far Traveler","Ranger","Beast Master",15,151,15
+"31","Wood Elf","Folk Hero","Druid","Circle of the Moon",15,118,14
+"32","High Elf","Urchin","Rogue","Arcane Trickster",15,104,14
+"33","Dragonborn","Acolyte","Sorcerer","Draconic Bloodline",15,119,14
+"34","Dark Elf","Acolyte","Cleric","Life Domain",15,118,18
+"35","Goliath","Folk Hero","Barbarian","Path of the Totem Warrior",15,202,16
+"36","Half-Orc","Clan Crafter","Barbarian","Path of the Berserker",14,159,16
+"37","Forest Gnome","Port City Noble","Fighter","Eldritch Knight",14,88,16
+"38","High Elf","Knight","Mystic","Order of the Soul Knife",14,115,17
+"39","Human","Soldier","Fighter","Purple Dragon Knight",14,158,19
+"40","Human","Outlander","Wizard","School of Abjuration",14,58,19
+"41","Human","Guild Artisan","Monk","Way of the Drunken Master",13,69,19
+"42","Variant","Urban Bounty Hunter","Rogue","Swashbuckler",13,107,16
+"43","Hill Dwarf","Sailor","Cleric","Tempest Domain",13,120,19
+"44","Lightfoot Halfling","Criminal","Rogue","Thief",13,94,15
+"45","Tabaxi","Criminal","Rogue","Mastermind",12,75,14
+"46","Firbolg","Acolyte","Cleric","Forge Domain",12,111,18
+"47","Lightfoot Halfling","Criminal","Rogue","Thief",12,87,19
+"48","Aarakocra","Far Traveler","Ranger","Beast Master",12,88,15
+"49","Half-Orc","Folk Hero","Fighter","Champion",12,112,20
+"50","Tabaxi","Folk Hero","Ranger","Hunter",12,89,16
+"51","Human","Courtier","Cleric","Forge Domain",12,119,17
+"52","Half-Orc","Barbarian Tribe Member","Barbarian","Path of the Zealot",12,188,20
+"53","Forest Gnome","Hermit","Wizard","School of Evocation",12,100,14
+"54","Variant","Sage","Sorcerer","Draconic Bloodline",12,107,18
+"55","Scourge Aasimar","Knight","Paladin","Oath of Vengeance",12,139,20
+"56","Ghastly Halfling","Entertainer","Bard","College of Swords",12,110,16
+"57","Tiefling","Cloistered Scholar","Warlock","The Celestial",12,117,16
+"58","Shadow Elf","Outlander","Ranger","Hunter",12,131,16
+"59","Stout Halfling","Sailor","Rogue","Swashbuckler",12,141,16
+"60","Mountain Dwarf","Knight","Fighter","Samurai",12,162,16
+"61","Tortle","Folk Hero","Paladin","Oath of Ancients",12,124,18
+"62","Turtle","Sage","Druid","Circle of spores",12,76,19
+"63","Half-Orc","Clan Crafter","Sorcerer","Storm Sorcery",11,95,11
+"64","Scourge Aasimar","Knight","Paladin","Oath of Vengeance",11,127,20
+"65","Human","Urban Bounty Hunter","Rogue","Mastermind",10,24,15
+"66","Skellington","Hermit","Monk","Way of the Sun Soul",10,63,18
+"67","Dragonborn","Courtier","Sorcerer","Storm Sorcery",10,42,12
+"68","Mountain Dwarf","Clan Crafter","Paladin","OathBreaker",10,84,18
+"69","Human","Knight","Fighter","Purple Dragon Knight",10,76,18
+"70","Wood Elf","Sage","Druid","Circle of the Land",10,53,16
+"71","Half-Orc","Acolyte","Cleric","Nature Domain",10,73,18
+"72","Protector Aasimar","Sailor","Bard","College of Glamour",10,88,15
+"73","Lineage - Mamm","Noble","Warlock","The Hexblade",10,73,16
+"74","Human","Sage","Wizard","School of Necromancy",10,62,12
+"75","Dragonborn","Soldier","Paladin","Oath of Vengeance",10,94,18
+"76","Human","Acolyte","Sorcerer","Shadow Magic",10,80,13
+"77","Hill Dwarf","Folk Hero","Cleric","Trickery Domain",10,100,22
+"78","Human","Criminal","Ranger","Horizon Walker",10,100,17
+"79","Mountain Dwarf","Folk Hero","Sorcerer","Divine Soul",10,72,16
+"80","Kenku","Acolyte","Cleric","Grave Domain",10,73,18
+"81","Hill Dwarf","Hermit","Druid","Circle of the Moon",10,90,14
+"82","Dragonborn","Acolyte","Paladin","Oath of Vengeance",10,90,16
+"83","Wood Elf","Criminal","Rogue","Assassin",10,70,16
+"84","Human","Outlander","Ranger","Hunter",10,70,16
+"85","Wood Elf","Criminal","Rogue","Swashbuckler",10,90,16
+"86","Mountain Dwarf","Soldier","Barbarian","Path of the Totem Warrior",10,65,16
+"87","Human","Sage","Sorcerer","Shadow Magic",10,70,13
+"88","Wood Elf","Guild Artisan","Wizard","School of Conjuration",10,42,13
+"89","Human","Acolyte","Cleric","Life Domain",10,88,18
+"90","Wood Elf","Hermit","Druid","Circle of the Moon",10,80,16
+"91","Half-Orc","Outlander","Barbarian","Path of the Berserker",10,119,17
+"92","Mountain Dwarf","Soldier","Fighter","Battle Master",10,116,21
+"93","Tabaxi","Criminal","Rogue","Assassin",10,73,16
+"94","Rock Gnome","Faction Agent","Blood Hunter","Order of the Mutant",10,84,15
+"95","Naga","Mercenary Veteran","Fighter","Cavalier",10,100,18
+"96","Lightfoot Halfling","Far Traveler","Ranger","Hunter",9,95,15
+"97","Tiefling","Noble","Sorcerer","Revised Favored Soul",9,47,10
+"98","Water Genasi","Acolyte","Paladin","Oath of Ancients",9,110,17
+"99","Earth Genasi","Knight","Paladin","Oath of Devotion",9,121,21
+"100","Human","Soldier","Fighter","Champion",9,103,20
+"101","Lightfoot Halfling","Charlatan","Rogue","Thief",9,75,14
+"102","Lightfoot Halfling","Charlatan","Rogue","Thief",9,75,14
+"103","Mountain Dwarf","Soldier","Fighter","Battle Master",9,101,18
+"104","Turtle","Soldier","Fighter","Samurai",9,85,16
+"105","Wood Elf","Outlander","Fighter","Arcane Archer",9,85,16
+"106","Half-Orc","Outlander","Barbarian","Path of the Totem Warrior",9,95,15
+"107","Orc","Folk Hero","Cleric","Death Domain",9,66,16
+"108","Half-Elf","Sailor","Sorcerer","Shadow Magic",9,65,10
+"109","Wood Elf","Inheritor","Druid","Circle of the Shepherd",9,60,13
+"110","Half-Elf","Guild Artisan","Warlock","The Hexblade",9,75,13
+"111","Mountain Dwarf","Hermit","Paladin","Oath of Ancients",9,116,20
+"112","Kenku","Charlatan","Druid","Circle of the Shepherd",9,66,15
+"113","Half-Orc","Sailor","Barbarian","Path of the Berserker",9,130,16
+"114","Half-Orc","Sailor","Barbarian","Path of the Berserker",9,130,16
+"115","Half-Elf","Criminal","Wizard","War Magic",9,61,12
+"116","Mountain Dwarf","Outlander","Barbarian","Path of the Totem Warrior",8,101,22
+"117","Mountain Dwarf","Outlander","Barbarian","Path of the Totem Warrior",8,101,22
+"118","Half-Orc","Barbarian Tribe Member","Barbarian","Path of the Totem Warrior",8,116,16
+"119","Human","Hermit","Mystic","Order of the Wu Jen",8,68,15
+"120","Human","Acolyte","Cleric","War Domain",8,80,21
+"121","Dragonborn","Mercenary Veteran","Paladin","OathBreaker",8,89,16
+"122","Dragonborn","City Watch","Cleric","Life Domain",8,80,20
+"123","Dragonborn","Faction Agent","Sorcerer","Draconic Bloodline",8,66,16
+"124","Turtle","Hermit","Monk","Way of the Four Elements",8,57,18
+"125","Shadow Elf","Acolyte","Warlock","The Hexblade",8,67,16
+"126","","","Wizard","School of Transmutation",8,55,11
+"127","Firbolg","Haunted One","Druid","Circle of the Moon",8,62,14
+"128","Hill Dwarf","Noble","Fighter","Champion",8,95,22
+"129","Hill Dwarf","Acolyte","Cleric","War Domain",8,75,20
+"130","Human","Sailor","Ranger","Beast Conclave",8,68,16
+"131","Orc","Haunted One","Fighter","Battle Master",8,92,17
+"132","Forest Gnome","Mercenary Veteran","Wizard","School of Evocation",8,66,14
+"133","Lineage - Glas","Criminal","Rogue","Thief",8,57,17
+"134","Human","Inheritor","Druid","Circle of the Moon",8,67,13
+"135","Human","Knight","Cleric","Knowledge Domain",8,35,16
+"136","Half-Orc","Outlander","Ranger","Beast Master",8,68,13
+"137","Tiefling","Entertainer","Bard","College of Lore",8,51,11
+"138","Half-Elf","Sage","Druid","Circle of the Moon",8,75,13
+"139","Wood Elf","Folk Hero","Ranger","Beast Master",8,75,17
+"140","Air Genasi","Criminal","Ranger","Gloom Stalker",8,76,16
+"141","Tabaxi","Urban Bounty Hunter","Fighter","Purple Dragon Knight",8,68,15
+"142","Wood Elf","Criminal","Monk","Way of Shadow",8,67,20
+"143","Kenku","Cloistered Scholar","Cleric","Death Domain",8,51,18
+"144","Half-Elf","Acolyte","Monk","Way of the Open Hand",8,59,20
+"145","Stout Halfling","Soldier","Fighter","Champion",7,76,18
+"146","Half-Elf","Haunted One","Sorcerer","Wild Magic",7,44,10
+"147","Wood Elf","Charlatan","Ranger","Beast Master",7,65,14
+"148","Eladrin ToF","Noble","Druid","Circle of the Shepherd",7,49,16
+"149","Gray-Elf","Noble","Cleric","Death Domain",7,52,17
+"150","High Elf","Faction Agent","Fighter","Eldritch Knight",7,69,14
+"151","Triton","Barbarian Tribe Member","Barbarian","Path of the Storm Herald",7,98,21
+"152","Half-Orc","Mercenary Veteran","Barbarian","Path of the Totem Warrior",7,75,16
+"153","Human","Cloistered Scholar","Wizard","School of Illusion",7,42,13
+"154","Mountain Dwarf","Hermit","Cleric","Tempest Domain",7,68,11
+"155","Dragonborn","Urban Bounty Hunter","Rogue","Arcane Trickster",7,54,14
+"156","Triton","Hermit","Druid","Circle of the Land",7,59,16
+"157","Mountain Dwarf","City Watch","Fighter","Battle Master",7,91,20
+"158","Wood Elf","Entertainer","Monk","Way of Shadow",7,52,17
+"159","Human","Haunted One","Ranger","Monster Slayer",7,79,14
+"160","Human","Soldier","Paladin","Oath of Ancients",7,88,21
+"161","Tiefling","Sage","Sorcerer","Wild Magic",7,52,12
+"162","Wood Elf","Barbarian Tribe Member","Ranger","Hunter",7,69,17
+"163","Half-Elf","Outlander","Paladin","Oath of Devotion",7,79,18
+"164","Human","Criminal","Fighter","Battle Master",7,67,17
+"165","Wood Elf","Outlander","Ranger","Horizon Walker",7,60,15
+"166","Dark Elf","Hermit","Cleric","War Domain",7,45,18
+"167","Wood Elf","Urban Bounty Hunter","Rogue","Scout",7,38,14
+"168","Triton","Soldier","Fighter","Cavalier",7,77,16
+"169","Rock Gnome","Entertainer","Bard","College of Lore",7,52,13
+"170","Goblin","Sage","Wizard","School of Enchantment",6,42,13
+"171","Scourge Aasimar","Folk Hero","Cleric","Trickery Domain",6,72,17
+"172","Goliath","Sailor","Cleric","Tempest Domain",6,45,16
+"173","Human","Acolyte","Cleric","Life Domain",6,0,20
+"174","Human","City Watch","Barbarian","Path of the Totem Warrior",6,1,16
+"175","Human","Criminal","Monk","Way of the Kensei",6,45,16
+"176","Mountain Dwarf","Guild Artisan","Paladin","Oath of the Crown",6,-9,17
+"177","Half-Orc","Acolyte","Cleric","Tempest Domain",6,45,20
+"178","Human","Inventor","Wizard","School of Transmutation",6,37,13
+"179","Goliath","Soldier","Fighter","Samurai",6,68,17
+"180","Half-Orc","Sage","Wizard","School of Conjuration",6,53,13
+"181","Half-Orc","Sailor","Bard","College of Swords",6,26,14
+"182","Human","Sailor","Paladin","OathBreaker",6,40,17
+"183","Kobold","Sailor","Barbarian","Path of the Berserker",6,58,14
+"184","Dragonborn","Sailor","Rogue","Swashbuckler",6,35,15
+"185","Kenku","Haunted One","Cleric","Grave Domain",6,60,15
+"186","Half-Elf","Charlatan","Bard","College of Lore",6,39,14
+"187","Human","Noble","Sorcerer","Wild Magic",6,38,13
+"188","Dragonborn","Noble","Paladin","Oath of Ancients",6,58,19
+"189","High Elf","Noble","Sorcerer","Wild Magic",6,37,13
+"190","Fallen Aasimar","Custom","Druid","Circle of Dreams",6,45,16
+"191","Half-Orc","Knight","Fighter","Champion",6,75,18
+"192","Minotaur","Acolyte","Monk","Way of the Kensei",6,46,15
+"193","Eladrin","Guild Artisan","Artificer","Gunsmith",6,47,16
+"194","Human","Outlander","Barbarian","Path of the Battlerager",6,65,15
+"195","Human","Faction Agent","Fighter","Eldritch Knight",5,39,19
+"196","Human","Faction Agent","Sorcerer","Wild Magic",5,32,12
+"197","Human","Faction Agent","Fighter","Eldritch Knight",5,39,19
+"198","Human","Faction Agent","Rogue","Arcane Trickster",5,38,15
+"199","Human","Faction Agent","Cleric","Arcana Domain",5,28,16
+"200","Human","Knight","Paladin","Oath of Devotion",5,50,23
+"201","Serpentblood","Folk Hero","Bard","College of Whispers",5,50,13
+"202","Aarakocra","Far Traveler","Wizard","School of Evocation",5,32,13
+"203","Human","Knight","Fighter","Eldritch Knight",5,60,18
+"204","Goliath","Haunted One","Barbarian","Path of the Zealot",5,50,14
+"205","Half-Elf","Courtesan","Bard","College of Lore",5,44,20
+"206","Half-Elf","Noble","Wizard","School of Divination",5,32,12
+"207","Human","Charlatan","Rogue","Assassin",5,45,15
+"208","Fire Genasi","Caravan Specialist","Wizard","School of Evocation",5,32,11
+"209","Human","Acolyte","Cleric","War Domain",5,38,17
+"210","Aarakocra","Soldier","Ranger","Hunter Conclave",5,44,15
+"211","Hill Dwarf","Folk Hero","Cleric","Tempest Domain",5,52,18
+"212","Human","Folk Hero","Barbarian","Path of the Berserker",5,70,13
+"213","Half-Elf","Charlatan","Rogue","Mastermind",5,40,14
+"214","Human","Sailor","Fighter","Champion",5,65,16
+"215","Half-Elf","Soldier","Ranger","Hunter",5,44,16
+"216","Dragonborn","Mercenary Veteran","Paladin","Oath of Devotion",5,60,18
+"217","Human","Criminal","Cleric","War Domain",5,48,18
+"218","Wood Elf","Outlander","Rogue","Assassin",5,28,14
+"219","Half-Orc","Mercenary Veteran","Barbarian","Path of the Totem Warrior",5,50,14
+"220","Dragonborn","Soldier","Barbarian","Path of the Berserker",5,60,14
+"221","Dark Elf","Entertainer","Bard","College of Swords",5,40,14
+"222","Human","Sailor","Monk","Way of the Open Hand",5,44,15
+"223","Half-Elf","Soldier","Warlock","The Celestial",5,38,16
+"224","Water Genasi","Sailor","Ranger","Beast Master",5,37,16
+"225","Human","Outlander","Barbarian","Path of the Totem Warrior",5,55,18
+"226","Half-Elf","Custom","Fighter","Arcane Archer",5,49,17
+"227","Goblin","Outlander","Druid","Circle of the Moon",5,50,15
+"228","Goblin","Criminal","Rogue","Assassin",5,50,15
+"229","Goblin","Outlander","Fighter","Purple Dragon Knight",5,65,16
+"230","Goblin","Outlander","Paladin","Oath of Vengeance",5,60,18
+"231","Goblin","Outlander","Cleric","War Domain",5,55,18
+"232","Goblin","Outlander","Bard","College of Lore",5,45,14
+"233","Goblin","Outlander","Ranger","Beast Master",5,60,16
+"234","Goblin","Far Traveler","Wizard","School of Evocation",5,26,12
+"235","Tiefling","Hermit","Monk","Way of the Drunken Master",5,48,14
+"236","Human","Faction Agent","Cleric","Arcana Domain",5,28,13
+"237","Wood Elf","Cloistered Scholar","Cleric","Light Domain",5,38,18
+"238","Human","Cloistered Scholar","Cleric","Arcana Domain",5,38,17
+"239","Tiefling","Far Traveler","Warlock","The Fiend",5,33,11
+"240","Protector Aasimar","Outlander","Warlock","The Great Old One",5,33,11
+"241","Triton","Sailor","Bard","College of Valor",5,36,13
+"242","Mountain Dwarf","Outlander","Barbarian","Path of the Totem Warrior",5,65,21
+"243","Half-Elf","Outlander","Paladin","Oath of Ancients",5,34,18
+"244","Human","Sage","Sorcerer","Draconic Bloodline",5,32,15
+"245","Human","Acolyte","Paladin","Oath of Vengeance",5,44,16
+"246","Wood Elf","Cloistered Scholar","Cleric","Knowledge Domain",5,38,18
+"247","Half-Orc","Sailor","Fighter","Champion",5,49,18
+"248","Lightfoot Halfling","Charlatan","Rogue","Swashbuckler",5,38,15
+"249","Wood Elf","Outlander","Fighter","Arcane Archer",5,44,16
+"250","Mountain Dwarf","Soldier","Barbarian","Path of the Berserker",5,62,17
+"251","Mountain Dwarf","Knight","Paladin","Oath of Devotion",5,52,16
+"252","Hill Dwarf","Far Traveler","Druid","Circle of the Moon",5,45,15
+"253","Air Genasi","Outlander","Ranger","Hunter",5,45,16
+"254","Forest Gnome","Clan Crafter","Wizard","School of Divination",5,30,12
+"255","Fire Genasi","Sage","Wizard","School of Divination",5,34,12
+"256","Human","Outlander","Monk","Way of the Open Hand",5,50,17
+"257","Variant","Knight","Fighter","Eldritch Knight",5,44,18
+"258","Dark Elf","Acolyte","Cleric","Life Domain",5,38,18
+"259","Protector Aasimar","Outlander","Sorcerer","Storm Sorcery",5,28,10
+"260","Goliath","Guild Artisan","Barbarian","Path of the Totem Warrior",5,53,15
+"261","Dragonborn","Acolyte","Paladin","Oath of Devotion",5,42,19
+"262","Wood Elf","City Watch","Monk","Way of the Open Hand",5,43,15
+"263","Tabaxi","Inheritor","Cleric","Light Domain",5,23,16
+"264","Aarakocra","Acolyte","Paladin","Oath of Vengeance",5,39,18
+"265","Triton","Noble","Barbarian","Path of the Ancestral Guardian",5,50,13
+"266","Human","Knight","Fighter","Champion",5,39,18
+"267","Dark Elf","Criminal","Rogue","Mastermind",5,33,15
+"268","Half-Elf","Noble","Wizard","School of Divination",5,32,12
+"269","Half-Orc","Acolyte","Paladin","Oath of Devotion",5,39,18
+"270","Mountain Dwarf","Sailor","Barbarian","Path of the Ancestral Guardian",5,55,16
+"271","Human","Outlander","Fighter","Battle Master",5,48,16
+"272","Dragonborn","Pirate","Paladin","Oath of Vengeance",5,44,18
+"273","Dark Elf","Custom","Sorcerer","Wild Magic",5,32,13
+"274","Dragonborn","Outlander","Barbarian","Path of the Zealot",5,68,17
+"275","Mountain Dwarf","Soldier","Fighter","Champion",5,44,18
+"276","Wood Elf","Urban Bounty Hunter","Rogue","Scout",5,27,16
+"277","Human","Charlatan","Rogue","Swashbuckler",5,28,16
+"278","Tiefling","Entertainer","Cleric","Tempest Domain",5,38,17
+"279","Minotaur","Outlander","Fighter","Champion",5,54,17
+"280","Human","Hermit","Monk","Way of the Open Hand",5,45,17
+"281","Mountain Dwarf","Sailor","Paladin","Oath of Ancients",5,54,17
+"282","Human","Acolyte","Paladin","Oath of Vengeance",5,60,16
+"283","Human","Sailor","Cleric","Tempest Domain",5,38,17
+"284","Tabaxi","Soldier","Ranger","Hunter",5,39,14
+"285","Lightfoot Halfling","Criminal","Rogue","Assassin",5,33,16
+"286","Firbolg","Folk Hero","Cleric","Trickery Domain",4,42,16
+"287","Dragonborn","Acolyte","Paladin","Oath of Ancients",4,45,18
+"288","Human","Sage","Ranger","Beast Master",4,25,12
+"289","Lightfoot Halfling","Outlander","Ranger","Monster Slayer",4,32,15
+"290","Mountain Dwarf","Hermit","Barbarian","Path of the Totem Warrior",4,49,16
+"291","Rock Gnome","Knight","Paladin","Oath of Vengeance",4,40,16
+"292","Human","Criminal","Rogue","Arcane Trickster",4,23,13
+"293","Half-Elf","Charlatan","Bard","College of Glamour",4,23,14
+"294","Human","Urban Bounty Hunter","Monk","Way of the Kensei",4,31,17
+"295","Wood Elf","Far Traveler","Monk","Way of the Drunken Master",4,27,16
+"296","Goliath","Sailor","Barbarian","Path of the Berserker",4,61,19
+"297","Dark Elf","Urchin","Wizard","School of Necromancy",4,24,13
+"298","Rock Gnome","City Watch","Fighter","Battle Master",4,37,17
+"299","Dragonborn","Noble","Fighter","Battle Master",4,43,18
+"300","Stout Halfling","Charlatan","Bard","College of Lore",4,39,14
+"301","Human","Haunted One","Sorcerer","Shadow Magic",4,26,11
+"302","High Elf","Far Traveler","Wizard","School of Abjuration",4,22,14
+"303","Human","Sailor","Ranger","Hunter",4,48,14
+"304","Human","Criminal","Rogue","Scout",4,30,14
+"305","Human","Barbarian Tribe Member","Fighter","Battle Master",4,42,16
+"306","Tabaxi","Outlander","Rogue","Scout",4,32,14
+"307","Tabaxi","Outlander","Monk","Way of the Kensei",4,32,16
+"308","Human","Barbarian Tribe Member","Druid","Circle of Dreams",4,33,15
+"309","Flying Snake","","Ranger","Beast Master",4,20,16
+"310","Human","Haunted One","Sorcerer","Shadow Magic",4,23,11
+"311","Warforged","Folk Hero","Fighter","Champion",4,36,18
+"312","Human","Soldier","Paladin","Oath of Vengeance",4,36,16
+"313","Human","Soldier","Paladin","Oath of Vengeance",4,36,17
+"314","Dark Elf","Urban Bounty Hunter","Ranger","Hunter",4,28,14
+"315","Human","Noble","Bard","College of Whispers",4,31,12
+"316","Human","Folk Hero","Wizard","School of Evocation",4,30,12
+"317","Hill Dwarf","Hermit","Druid","Circle of the Moon",4,37,14
+"318","Sea Elf","Sage","Wizard","Lore Mastery",4,30,12
+"319","Lightfoot Halfling","Charlatan","Rogue","Assassin",4,26,15
+"320","Half-Elf","Charlatan","Rogue","",4,31,16
+"321","Human","Faction Agent","Ranger","Hunter",4,32,16
+"322","Dark Elf","Criminal","Rogue","Assassin",4,25,15
+"323","Hill Dwarf","Acolyte","Cleric","Life Domain",4,43,17
+"324","Human","Folk Hero","Monk","Way of the Open Hand",4,43,19
+"325","Tiefling","Haunted One","Warlock","The Fiend",4,30,13
+"326","Human","Mercenary Veteran","Fighter","Champion",4,48,17
+"327","Forest Gnome","Sage","Wizard","School of Evocation",4,25,11
+"328","Half-Orc","Outlander","Barbarian","Path of the Totem Warrior",4,56,15
+"329","Wood Elf","Hermit","Druid","Circle of the Moon",4,36,14
+"330","Half-Orc","Outlander","Barbarian","Path of the Totem Warrior",4,16,14
+"331","Human","Far Traveler","Druid","Circle of Dreams",4,37,16
+"332","Kobold","Cloistered Scholar","Wizard","School of Abjuration",4,22,13
+"333","Serpentblood","Haunted One","Sorcerer","Draconic Bloodline",4,31,13
+"334","1/2 Elf--Var.","Faction Agent/Outlander","Paladin","Oath of Ancients",4,42,19
+"335","Human","Criminal","Fighter","Champion",4,48,16
+"336","Stout Halfling","Inheritor","Fighter","Samurai",4,48,17
+"337","Half-Elf","Haunted One","Sorcerer","Draconic Bloodline",4,30,15
+"338","Stout Halfling","City Watch","Fighter","Battle Master",4,33,17
+"339","Half-Orc","Hermit","Druid","Circle of the Moon",4,36,15
+"340","Human","Urchin","Druid","Circle of the Shepherd",4,35,12
+"341","Wood Elf","Acolyte","Cleric","Arcana Domain",4,27,18
+"342","Half-Elf","Soldier","Warlock","The Celestial",4,31,14
+"343","","","Paladin","Oath of Devotion",4,60,22
+"344","Protector Aasimar","Noble","Paladin","",4,28,20
+"345","Deep Gnome","Sage","Wizard","School of Illusion",4,32,12
+"346","High Elf","Entertainer","Sorcerer","Wild Magic",4,22,13
+"347","High Elf","Entertainer","Sorcerer","Wild Magic",4,22,13
+"348","Forest Gnome","Clan Crafter","Cleric","Forge Domain",4,31,16
+"349","High Elf","Entertainer","Sorcerer","Wild Magic",4,22,13
+"350","Bugbear","Far Traveler","Fighter","Eldritch Knight",4,28,20
+"351","Half-Orc","Knight","Fighter","Cavalier",4,40,19
+"352","Wood Elf","Folk Hero","Ranger","Gloom Stalker",4,32,16
+"353","Wood Elf","Acolyte","Monk","Way of the Kensei",4,45,20
+"354","Serpentblood","Criminal","Rogue","Swashbuckler",4,40,14
+"355","Dark Elf","Haunted One","Paladin","Oath of Conquest",4,36,18
+"356","Wood Elf","Urban Bounty Hunter","Rogue","Scout",4,23,14
+"357","Variant","Haunted One","Rogue","Scout",4,44,15
+"358","Triton","Courtier","Bard","College of Valor",4,38,14
+"359","Goblin","Criminal","Rogue","Assassin",4,31,15
+"360","Half-Elf","Custom","Rogue","Swashbuckler",4,23,14
+"361","Lightfoot Halfling","Custom","Wizard","School of Abjuration",4,22,10
+"362","Ghastly Halfling","Custom","Rogue","Arcane Trickster",4,35,13
+"363","Half-Orc","Acolyte","Barbarian","Path of the Ancestral Guardian",4,53,13
+"364","Firbolg","Nerd","Wizard","School of Evocation",4,34,9
+"365","Dragonborn","Outlander","Barbarian","Path of the Ancestral Guardian",4,50,13
+"366","Kenku","Outlander","Ranger","Horizon Walker",4,28,14
+"367","Kenku","Criminal","Warlock","The Celestial",3,13,13
+"368","Tiefling","Acolyte","Bard","College of Glamour",3,27,13
+"369","Hill Dwarf","Urchin","Druid","Circle of Dreams",3,16,14
+"370","Human","Noble","Paladin","Oath of Vengeance",3,25,18
+"371","Lineage - Glas","Criminal","Sorcerer","Wild Magic",3,22,13
+"372","Ghastly Halfling","Outlander","Druid","Circle of the Moon",3,27,16
+"373","Human","Far Traveler","Monk","Way of the Four Elements",3,24,16
+"374","Dragonborn","Mercenary Veteran","Paladin","Oath of Conquest",3,30,17
+"375","Firbolg","Faction Agent","Cleric","Forge Domain",3,24,17
+"376","Goliath","Clan Crafter","Barbarian","Path of the Berserker",3,35,15
+"377","Goliath","Knight","Fighter","Eldritch Knight",3,28,17
+"378","Turtle","Acolyte","Cleric","Trickery Domain",3,30,19
+"379","Lizardfolk","Far Traveler","Paladin","Oath of Vengeance",3,29,20
+"380","Human","Soldier","Fighter","Champion",3,28,16
+"381","Goliath","Outlander","Barbarian","Path of the Berserker",3,38,15
+"382","Wood Elf","Clan Crafter","Rogue","Assassin",3,24,14
+"383","Wood Elf","Urchin","Rogue","Assassin",3,24,16
+"384","Human","Sailor","Druid","Circle of the Moon",3,27,13
+"385","Fire Genasi","Noble","Sorcerer","Wild Magic",3,18,10
+"386","Changeling","Far Traveler","Warlock","The Hexblade",3,18,16
+"387","Sea Elf","Sailor","Wizard","School of Conjuration",3,24,13
+"388","Wood Elf","Far Traveler","Cleric","Grave Domain",3,30,18
+"389","Human","Charlatan","Monk","Way of the Kensei",3,24,18
+"390","Gray Dwarf","Mercenary Veteran","Barbarian","Path of the Battlerager",3,35,17
+"391","Goliath","clan hero","Monk","Way of the Sun Soul",3,30,14
+"392","Forest Gnome","Hermit","Ranger","Hunter",3,25,16
+"393","Dragonborn","Criminal","Barbarian","Path of the Berserker",3,32,15
+"394","Human","Hermit","Monk","Way of the Open Hand",3,27,15
+"395","Firbolg","Acolyte","Cleric","Grave Domain",3,16,18
+"396","Wood Elf","Custom","Druid","Circle of the Shepherd",3,20,14
+"397","Mountain Dwarf","Soldier","Ranger","Hunter",3,28,16
+"398","Human","Soldier","Fighter","Battle Master",3,23,16
+"399","Turtle","Sailor","Fighter","Samurai",3,36,16
+"400","Goblin","Acolyte","Wizard","School of Evocation",3,16,12
+"401","Lightfoot Halfling","Criminal","Rogue","Thief",3,24,14
+"402","Hill Dwarf","Mercenary Veteran","Sorcerer","Draconic Bloodline",3,24,13
+"403","Tiefling","Acolyte","Cleric","War Domain",3,21,18
+"404","Human","Noble","Wizard","School of Illusion",3,11,11
+"405","Half-Elf","Mercenary Veteran","Fighter","Champion",3,28,18
+"406","Human","Folk Hero","Paladin","Oath of Devotion",3,29,18
+"407","Deep Gnome","Haunted One","Monk","Way of Shadow",3,23,15
+"408","Dragonborn","Mercenary Veteran","Fighter","Battle Master",3,36,19
+"409","Wood Elf","Urchin","Monk","Way of the Open Hand",3,29,15
+"410","Goblin","Sage","Druid","Circle of Dreams",3,24,15
+"411","Tiefling","Entertainer","Sorcerer","Storm Sorcery",3,21,12
+"412","Eladrin DMG","Acolyte","Cleric","Life Domain",3,24,18
+"413","Mountain Dwarf","Mercenary Veteran","Barbarian","Path of the Zealot",3,45,14
+"414","Human","Noble","Rogue","Assassin",3,24,14
+"415","Human","Entertainer","Monk","Way of the Four Elements",3,30,16
+"416","Tiefling","Charlatan","Rogue","Mastermind",3,15,12
+"417","High Elf","Sage","Wizard","School of Evocation",3,21,12
+"418","Meadowguard","Guild Artisan","Paladin","Oath of Free Commerce",3,22,19
+"419","High Elf","Noble","Barbarian","Path of the Berserker",3,29,14
+"420","Wood Elf","Hermit","Monk","Way of the Four Elements",3,20,15
+"421","Human","Noble","Fighter","Battle Master",3,28,18
+"422","Lightfoot Halfling","Guild Artisan","Cleric","Life Domain",3,27,18
+"423","Variant","Faction Agent/Outlander","Paladin","Oath of Ancients",3,39,19
+"424","Stout Halfling","Knight","Paladin","Oath of the Crown",3,28,16
+"425","Dragonborn","Soldier","Paladin","Oath of Ancients",3,28,18
+"426","Dragonborn","Soldier","Paladin","Oath of Ancients",3,28,18
+"427","Tiefling","Criminal","Warlock","The Hexblade",3,24,12
+"428","Half-Orc","Outlander","Barbarian","Path of the Zealot",3,35,13
+"429","Goliath","Mercenary Veteran","Fighter","Champion",3,30,16
+"430","Human","Hermit","Druid","Circle of the Moon",3,27,15
+"431","Mountain Dwarf","Soldier","Barbarian","Path of the Ancestral Guardian",3,35,14
+"432","Human","Cloistered Scholar","Cleric","Forge Domain",3,24,16
+"433","Forest Gnome","Entertainer","Sorcerer","Wild Magic",3,24,6
+"434","Goliath","Clan Crafter","Barbarian","Path of the Berserker",3,35,14
+"435","Human","Noble","Fighter","Cavalier",3,31,16
+"436","Human","Far Traveler","Sorcerer","Storm Sorcery",3,14,15
+"437","Tabaxi","Sailor","Monk","Way of the Open Hand",3,18,15
+"438","High Elf","Custom","Ranger","Beast Master",3,34,16
+"439","Human","Knight","Monk","Way of Tranquility",3,24,15
+"440","Half-Elf","Mercenary Veteran","Ranger","Beast Master",3,32,16
+"441","Turtle","Hermit","Barbarian","Path of the Berserker",3,32,19
+"442","Goliath","Entertainer","Bard","College of Swords",3,27,12
+"443","Half-Orc","Knight","Fighter","Champion",3,29,16
+"444","Wood Elf","Folk Hero","Rogue","Thief",3,21,14
+"445","Human","Sage","Druid","Circle of the Land",3,24,12
+"446","Half-Elf","Hermit","Druid","Circle of the Shepherd",3,24,11
+"447","Half-Orc","Outlander","Monk","Way of the Four Elements",3,24,12
+"448","Half-Orc","Folk Hero","Monk","Way of the Drunken Master",3,27,14
+"449","Lightfoot Halfling","Criminal","Rogue","Arcane Trickster",3,21,14
+"450","Half-Elf","Courtier","Bard","College of Lore",3,24,13
+"451","Dragonborn","Acolyte","Barbarian","Path of the Berserker",3,29,13
+"452","Gray Dwarf","Urban Bounty Hunter","Ranger","Hunter",3,28,16
+"453","Wood Elf","Custom","Ranger","Beast Master",3,25,15
+"454","Half-Elf","Acolyte","Rogue","Assassin",3,21,13
+"455","Stout Halfling","Barbarian Tribe Member","Barbarian","Path of the Berserker",3,38,16
+"456","Human","Hermit","Monk","Way of the Open Hand",3,27,17
+"457","Half-Orc","Knight","Paladin","Oath of Vengeance",3,28,18
+"458","Tiefling","Cloistered Scholar","Cleric","Life Domain",3,24,18
+"459","Goblin","Charlatan","Rogue","Assassin",3,24,16
+"460","Tabaxi","Urban Bounty Hunter","Rogue","Assassin",3,24,14
+"461","Triton","Knight","Fighter","Samurai",3,28,18
+"462","Goliath","Barbarian Tribe Member","Barbarian","Path of the Zealot",3,32,12
+"463","Goliath","","Cleric","Forge Domain",3,31,18
+"464","Human","Soldier","Ranger","Hunter",3,25,14
+"465","Goliath","Outlander","Ranger","Hunter Conclave",3,24,13
+"466","Human","Hermit","Monk","Way of the Kensei",3,24,12
+"467","Dark Elf","Far Traveler","Fighter","Eldritch Knight",3,28,18
+"468","Human","Soldier","Rogue","Assassin",3,24,15
+"469","Human","Far Traveler","Rogue","Assassin",3,24,14
+"470","Human","City Watch","Warlock","The Celestial",3,24,13
+"471","Hill Dwarf","Cloistered Scholar","Cleric","Life Domain",3,30,16
+"472","Human","Noble","Sorcerer","Draconic Bloodline",3,26,16
+"473","Human","Acolyte","Cleric","Tempest Domain",3,27,16
+"474","Tabaxi","Sailor","Bard","College of Swords",3,27,15
+"475","Variant","Acolyte","Warlock","The Great Old One",3,30,12
+"476","Firbolg","Sage","Druid","Circle of the Moon",3,21,14
+"477","Variant","Faction Agent","Paladin","Oath of Ancients",3,28,18
+"478","Scourge Aasimar","Folk Hero","Paladin","OathBreaker",3,32,18
+"479","Scourge Aasimar","Knight","Fighter","Samurai",3,36,16
+"480","Centaur","Sailor","Rogue","Thief",3,21,13
+"481","Wood Elf","Acolyte","Cleric","Life Domain",3,27,15
+"482","Turtle","Soldier","Barbarian","Path of the Totem Warrior",3,38,18
+"483","Half-Orc","Acolyte","Cleric","Life Domain",3,22,18
+"484","Forest Gnome","Sage","Sorcerer","Shadow Magic",2,14,12
+"485","Dragonborn","Outlander","Paladin","",2,18,16
+"486","Human","Cloistered Scholar","Wizard","Lore Mastery",2,16,11
+"487","Forest Gnome","Outlander","Cleric","Trickery Domain",2,16,17
+"488","Human","Criminal","Rogue","",2,19,16
+"489","Mountain Dwarf","Barbarian Tribe Member","Barbarian","",2,34,16
+"490","Dragonborn","Urban Bounty Hunter","Ranger","",2,16,16
+"491","Forest Gnome","Folk Hero","Fighter","",2,20,16
+"492","High Elf","Criminal","Rogue","",2,15,15
+"493","Goblin","Outlander","Rogue","",2,17,14
+"494","Firbolg","Hermit","Druid","Circle of the Land",2,6,13
+"495","Firbolg","Folk Hero","Fighter","",2,20,15
+"496","Half-Orc","Noble","Druid","Circle of the Moon",2,22,15
+"497","High Elf","Noble","Cleric","Trickery Domain",2,15,16
+"498","Hill Dwarf","Soldier","Cleric","Life Domain",2,17,17
+"499","Tabaxi","Hermit","Monk","",2,15,15
+"500","Sea Elf","Sailor","Ranger","",2,18,14
+"501","Turtle","Folk Hero","Monk","",2,20,20
+"502","Dragonborn","Mercenary Veteran","Ranger","",2,28,15
+"503","Forest Gnome","Cloistered Scholar","Wizard","School of Abjuration",2,14,12
+"504","Fire Genasi","Sage","Wizard","School of Divination",2,14,12
+"505","Tiefling","Custom","Warlock","The Fiend",2,17,13
+"506","Turtle","Outlander","Ranger","",2,20,17
+"507","Human","Noble","Paladin","",2,24,18
+"508","Lightfoot Halfling","Urban Bounty Hunter","Rogue","",2,19,16
+"509","Tiefling","Hermit","Paladin","",2,20,17
+"510","Deep Gnome","Outlander","Paladin","",2,26,17
+"511","Mountain Dwarf","Barbarian Tribe Member","Barbarian","",2,28,14
+"512","Rock Gnome","Outlander","Ranger","",2,21,17
+"513","Lineage - Zari","Acolyte","Barbarian","",2,28,16
+"514","Forest Gnome","Outlander","Druid","Circle of Dreams",2,16,15
+"515","Mountain Dwarf","Barbarian Tribe Member","Barbarian","",2,28,17
+"516","Half-Elf","Criminal","Monk","",2,20,15
+"517","Tiefling","Entertainer","Bard","",2,18,13
+"518","Stout Halfling","Charlatan","Bard","",2,19,12
+"519","Half-Elf","Urchin","Warlock","The Celestial",2,13,16
+"520","Deep Gnome","Haunted One","Rogue","",2,17,13
+"521","Deep Gnome","Faction Agent","Rogue","",2,11,10
+"522","Dragonborn","Hermit","Fighter","",2,40,17
+"523","Half-Elf","Sage","Sorcerer","Divine Soul",2,14,12
+"524","Wood Elf","Hermit","Rogue","",2,18,14
+"525","Half-Elf","Acolyte","Paladin","",2,24,18
+"526","Human","Soldier","Fighter","",2,24,16
+"527","Wood Elf","Noble","Cleric","War Domain",2,20,18
+"528","Human","Folk Hero","Paladin","",2,24,19
+"529","Wood Elf","Hermit","Druid","Circle of the Land",2,20,16
+"530","Tiefling","Urban Bounty Hunter","Rogue","",2,5,14
+"531","Goblin","Custom","Rogue","",2,10,14
+"532","Firbolg","Outlander","Barbarian","",2,31,14
+"533","Dragonborn","Charlatan","Sorcerer","Storm Sorcery",2,9,15
+"534","Half-Elf","Entertainer","Druid","Circle of Dreams",2,24,14
+"535","Human","Charlatan","Warlock","The Fiend",1,8,12
+"536","High Elf","Criminal","Wizard","",1,7,13
+"537","Dragonborn","Hermit","Warlock","The Fiend",1,10,11
+"538","Human","Outlander","Fighter","",1,11,18
+"539","Serpentblood","Sage","Wizard","",1,8,10
+"540","Rock Gnome","Noble","Sorcerer","Storm Sorcery",1,9,11
+"541","Tortle - Razorback Tribe","Knight","Paladin","",1,11,16
+"542","Dragonborn","Knight","Barbarian","",1,15,15
+"543","Lightfoot Halfling","Urchin","Monk","",1,9,17
+"544","Wood Elf","Outlander","Rogue","",1,9,14
+"545","Human","Folk Hero","Warlock","The Fiend",1,8,11
+"546","Half-Elf","Mercenary Veteran","Druid","",1,7,11
+"547","Bugbear","Criminal","Fighter","",1,11,16
+"548","Protector Aasimar","Courtier","Cleric","Life Domain",1,10,15
+"549","Human","Former pilot","Ranger","",1,11,13
+"550","Ghastly Halfling","Sailor","Druid","",1,10,16
+"551","Human","Charlatan","Bard","",1,9,14
+"552","Half-Orc","Urban Bounty Hunter","Fighter","",1,9,16
+"553","Lightfoot Halfling","Criminal","Rogue","",1,7,14
+"554","Human","Acolyte","Cleric","Arcana Domain",1,10,16
+"555","High Elf","Urban Bounty Hunter","Fighter","",1,11,14
+"556","Goliath","Haunted One","Sorcerer","Wild Magic",1,9,12
+"557","Half-Elf","Urban Bounty Hunter","Rogue","",1,9,15
+"558","Goblin","Acolyte","Monk","",1,9,15
+"559","Wood Elf","Criminal","Ranger","",1,11,16
+"560","Elf","Far Traveler","Cleric","Life Domain",1,9,14
+"561","Goliath","Haunted One","Barbarian","",1,14,14
+"562","High Elf","Urban Bounty Hunter","Wizard","",1,8,13
+"563","Human","Far Traveler","Ranger","",1,10,12
+"564","Kenku","Haunted One","Sorcerer","Divine Soul",1,8,12
+"565","Hill Dwarf","Hermit","Druid","",1,13,15
+"566","Protector Aasimar","Criminal","Bard","",1,10,13
+"567","Lineage - Fier","Hermit","Sorcerer","Wild Magic",1,8,11
+"568","Forest Gnome","Sailor","Rogue","",1,7,15
+"569","Forest Gnome","Sailor","Rogue","",1,8,14
+"570","Variant","Outlander","Mystic","Order of the Immortal",1,8,14
+"571","Half-Elf","Hermit","Fighter","",1,9,15
+"572","Lightfoot Halfling","Acolyte","Cleric","Life Domain",1,9,17
+"573","Aarakocra","Far Traveler","Cleric","Arcana Domain",1,51,18
+"574","Mountain Dwarf","Knight","Paladin","",1,13,17
+"575","Orc","Soldier","Fighter","",1,13,16
+"576","Lizardfolk","Pirate","Monk","",1,8,16
+"577","Human","Knight","Paladin","",1,11,14
+"578","Half-Elf","Entertainer","Bard","",1,10,14
+"579","Protector Aasimar","Acolyte","Sorcerer","Divine Soul",1,6,11
+"580","Human","Entertainer","Monk","",1,8,13
+"581","Aarakocra","City Watch","Rogue","",1,10,16
+"582","Human","Sailor","Monk","",1,9,16
+"583","Forest Gnome","Outlander","Monk","",1,10,17
+"584","Yuan-Ti","Charlatan","Cleric","Trickery Domain",1,9,18
+"585","Human","Custom","Bard","",1,8,11
+"586","Human","Custom","Fighter","",1,13,16
+"587","Human","Custom","Rogue","",1,9,14
+"588","Half-Elf","Criminal","Bard","",1,9,14
+"589","Mountain Dwarf","Hermit","Rogue","",1,8,13
+"590","Human","Urchin","Rogue","",1,8,13
+"591","Forest Gnome","Folk Hero","Sorcerer","Divine Soul",1,7,13
+"592","Kobold","Acolyte","Cleric","Life Domain",1,9,16
+"593","Human","Soldier","Fighter","",1,13,17
+"594","Dragonborn","Far Traveler","Fighter","",1,11,16
+"595","Rock Gnome","Sage","Wizard","",1,9,12
+"596","Hill Dwarf","Mercenary Veteran","Monk","",1,13,16
+"597","Hill Dwarf","Mercenary Veteran","Barbarian","",1,17,15
+"598","Half-Orc","Hermit","Monk","",1,8,11
+"599","Lightfoot Halfling","Charlatan","Bard","",1,40,15
+"600","Firbolg","Sailor","Fighter","",1,13,15
+"601","Lightfoot Halfling","Criminal","Bard","",1,7,12
+"602","Half-Orc","Barbarian Tribe Member","Paladin","",1,11,18
+"603","Lineage - Baal","Haunted One","Warlock","The Great Old One",1,9,11
+"604","Goliath","Criminal","Barbarian","",1,15,15
+"605","Half-Elf","Pirate","Bard","",1,9,13
+"606","Kobold","Miner","Warlock","The Fiend",1,9,13
+"607","Forest Gnome","Hermit","Druid","",1,9,11
+"608","Human","City Watch","Fighter","",1,11,16
+"609","Lizardfolk","Urban Vigilante","Ranger","",1,11,16
+"610","Protector Aasimar","Cloistered Scholar","Paladin","",1,11,18
+"611","Lizardfolk","Soldier","Paladin","",1,9,18
+"612","Hill Dwarf","Clan Crafter","Cleric","Life Domain",1,12,17
+"613","Human","Sailor","Barbarian","",1,13,12
+"614","Human","Port City Noble","Warlock","The Great Old One",1,10,9
+"615","Mountain Dwarf","Soldier","Fighter","",1,14,18
+"616","Turtle","Outlander","Monk","",1,9,15
+"617","Half-Orc","Noble","Rogue","",1,5,13
+"618","Dark Elf","Acolyte","Cleric","Light Domain",1,4,14
+"619","Human","Noble","Fighter","",1,10,10
+"620","Human","Courtier","Rogue","",1,8,12
+"621","Warforged","Soldier","Fighter","",1,15,15
+"622","elf","urchin","Warlock","The Fiend",1,10,18
+"623","Human","Acolyte","Fighter","",1,141,19
+"624","Bugbear","Outlander","Barbarian","",1,15,15
+"625","Human","Sailor","Fighter","",1,14,11
+"626","Lizardfolk","Pirate","Barbarian","",1,16,18
+"627","Human","Entertainer","Ranger","",1,12,14
+"628","Hill Dwarf","Sage","Wizard","",1,10,12
+"629","High Elf","Folk Hero","Paladin","",1,13,18
+"630","Wood Elf","Faction Agent","Sorcerer","Wild Magic",1,12,13
+"631","Human","Custom","Fighter","",1,12,14
+"632","Hill Dwarf","Charlatan","Rogue","",1,14,16
+"633","Forest Gnome","Inheritor","Wizard","",1,7,11
+"634","Forest Gnome","Entertainer","Bard","",1,9,14
+"635","Scourge Aasimar","Acolyte","Paladin","",1,12,18
+"636","Lightfoot Halfling","Criminal","Rogue","",1,8,15
+"637","Half-Elf","Folk Hero","Cleric","Life Domain",1,10,16
+"638","Mountain Dwarf","Urchin","Rogue","",1,9,13
+"639","Rock Gnome","Far Traveler","Ranger","",1,12,13
+"640","Rock Gnome","Far Traveler","Sorcerer","Wild Magic",1,8,9
+"641","Turtle","City Watch","Fighter","",1,11,16
+"642","Dark Elf","Noble","Paladin","",1,11,16
+"643","Dragonborn","Sailor","Barbarian","",1,13,13
+"644","Turtlebear","Custom","Sorcerer","Wild Magic",1,7,17
+"645","Wood Elf","Folk Hero","Ranger","",1,12,16
+"646","Wood Elf","City Watch","Ranger","",1,10,15
+"647","Lineage - Fier","Far Traveler","Monk","",1,9,16
+"648","Wood Elf","Outlander","Ranger","",1,11,14
+"649","Human","Outlander","Ranger","",1,9,14
+"650","Wood Elf","Criminal","Rogue","",1,7,15
+"651","Tiefling","Hermit","Sorcerer","Draconic Bloodline",1,10,15
+"652","Tabaxi","Entertainer","Warlock","The Hexblade",1,8,14
+"653","Human","Knight","Paladin","",1,13,17
+"654","Tiefling","Entertainer","Rogue","",1,9,16
+"655","Half-Elf","Hermit","Ranger","",1,40,16
+"656","Human","Haunted One","Cleric","Tempest Domain",1,10,16
+"657","High Elf","Outlander","Druid","",1,8,12
+"658","Tiefling","Hermit","Warlock","The Great Old One",1,9,12
+"659","Human","Soldier","Fighter","",1,11,16
+"660","Lineage - Fier","Urchin","Fighter","",1,12,15
+"661","Juggernaut","Soldier","Fighter","",1,12,13
+"662","High Elf","Cloistered Scholar","Wizard","",1,7,13
+"663","Dragonborn","Outlander","Ranger","",1,11,16
+"664","Tiefling","Noble","Fighter","",1,12,16
+"665","Wood Elf","Far Traveler","Cleric","Grave Domain",1,10,18
+"666","Lightfoot Halfling","Entertainer, Gladiator Variant","Fighter","",1,12,16
+"667","Stout Halfling","Sage","Ranger","",1,12,15
+"668","Dark Elf","Guild Artisan","Sorcerer","Draconic Bloodline",1,9,13
+"669","Kenku","Charlatan","Wizard","",1,6,11
+"670","Half-Orc","Guild Artisan","commoner","",1,8,10
+"671","Wood Elf","Urchin","Cleric","Tempest Domain",1,7,18
+"672","Human","Urban Bounty Hunter","Barbarian","",1,15,15
+"673","Human","Sage","Sorcerer","Shadow Magic",1,7,11
+"674","Dragonborn","Faction Agent","Paladin","",1,10,15
+"675","Triton","Faction Agent","Ranger","",1,13,14
+"676","Protector Aasimar: Iluskan Parents","Haunted One","Warlock","The Hexblade",1,11,14
+"677","Wood Elf","Soldier","Fighter","",1,12,16
+"678","Half-Orc","Outlander","Fighter","",1,29,18
+"679","Mountain Dwarf","Pirate","Barbarian","",1,15,15
+"680","Mountain Dwarf","Cloistered Scholar","Wizard","",1,9,12
+"681","Gray Dwarf","City Watch","Ranger","",1,1,14
+"682","Tiefling","Custom","Sorcerer","Shadow Magic",1,9,12
+"683","Scourge Aasimar","Noble","Bard","",1,10,13
+"684","Aarakocra","Acolyte","Barbarian","",1,11,9
+"685","Wood Elf","Outlander","Druid","",1,10,16
+"686","Human","Urchin","Paladin","",1,12,16
+"687","Meadowguard","Acolyte","Bard","",1,10,14
+"688","Human","Outlander","Druid","",1,11,12
+"689","Protector Aasimar","Cloistered Scholar","Cleric","Life Domain",1,8,13
+"690","Half-Elf","Charlatan","Rogue","",1,8,13
+"691","Turtle","Sage","Cleric","War Domain",1,9,16
+"692","Human","Urban Bounty Hunter","Ranger","",1,12,15
+"693","Mountain Dwarf","Clan Crafter","Fighter","",1,13,18
+"694","Human","Hermit","Druid","",1,10,15
+"695","Half-Elf","Hermit","Druid","",1,9,15
+"696","Human","Urchin","Cleric","Light Domain",1,10,18
+"697","Human","Soldier","Fighter","",1,12,16
+"698","Variant","Charlatan","Wizard","",1,7,12
+"699","Human","Acolyte","Cleric","Tempest Domain",1,10,18
+"700","Human","Charlatan","Bard","",1,10,12
+"701","Hill Dwarf","Haunted One","Wizard","",1,10,11
+"702","Tiefling","Criminal","Warlock","The Great Old One",1,9,13
+"703","Dragonborn","Barbarian Tribe Member","Barbarian","",1,14,15
+"704","Wood Elf","Urban Bounty Hunter","Rogue","",1,8,14
+"705","Dragonborn","Far Traveler","Sorcerer","Draconic Bloodline",1,8,15
+"706","Forest Gnome","Noble","Wizard","",1,8,18
+"707","Tabaxi","Urchin","Monk","",1,8,14
+"708","Half-Elf","Entertainer","Bard","",1,8,13
+"709","High Elf","Outlander","Barbarian","",1,14,15
+"710","Dragonborn","Soldier","Fighter","",1,12,16
+"711","Kenku/half elf","Far Traveler","Warlock","The Undying",1,5,14
+"712","Tiefling","Entertainer","Bard","",1,9,13
+"713","Human","Criminal","Sorcerer","Shadow Magic",1,7,14
+"714","Dragonborn","Mercenary Veteran","Fighter","",1,14,16
+"715","Turtle","Folk Hero","Ranger","",1,11,16
+"716","Tiefling","Criminal","Rogue","",1,8,14
+"717","Firbolg","Hermit","Druid","",1,10,15
+"718","Scourge Aasimar","Mercenary Veteran","Cleric","Death Domain",1,8,17
+"719","Half-Elf","Charlatan","Ranger","",1,12,15
+"720","Tiefling","Charlatan","Warlock","The Archfey",1,11,12
+"721","Lightfoot Halfling","Charlatan","Bard","",1,10,15
+"722","Human","Clan Crafter","Fighter","",1,10,15
+"723","Dark Elf","Criminal","Sorcerer","Shadow Magic",1,9,12
+"724","Human","Urban Bounty Hunter","Ranger","",1,10,14
+"725","Orc","Acolyte","Fighter","",1,11,16
+"726","Kobold","Soldier","Fighter","",1,12,18
+"727","Dark Elf","Urchin","Rogue","",1,8,14
+"728","Human","Charlatan","Rogue","",1,8,14
+"729","Human","Soldier","Fighter","",1,13,16
+"730","Human","Criminal","Rogue","",1,9,15
+"731","High Elf","Haunted One","Wizard","",1,7,14
+"732","Wood Elf","Urban Bounty Hunter","Ranger","",1,11,15
+"733","Human","Sailor","Cleric","Tempest Domain",1,11,18
+"734","Human","Sailor","Warlock","The Hexblade",1,9,13
+"735","Tiefling","Haunted One","Warlock","The Great Old One",1,10,12
+"736","Wood Elf","Criminal","Rogue","",1,10,15
+"737","Earth Genasi","Haunted One","Fighter","",1,13,18
+"738","Ghastly Halfling","Outlander","Druid","",1,7,13
+"739","Ghostwise Halfling","Outlander","Druid","",1,10,16
+"740","Aarakocra","Sailor","Monk","",1,9,15
+"741","Human","Far Traveler","Cleric","Nature Domain",1,11,18
+"742","Human","Criminal","Rogue","",1,9,14
+"743","High Elf","Noble","Rogue","",1,8,13
+"744","High Elf","Haunted One","Wizard","",1,8,13
+"745","Tiefling","Urban Bounty Hunter","Rogue","",1,8,12
+"746","Human","Custom","Fighter","",1,11,16
+"747","Lightfoot Halfling","Folk Hero","Monk","",1,9,13
+"748","Hill Giant","Haunted One","Barbarian","",1,13,12
+"749","Human","Soldier","Fighter","",1,12,18
+"750","Human","Urchin","Rogue","",1,9,14
+"751","Half-Elf","City Watch","Sorcerer","Draconic Bloodline",1,10,16
+"752","Dragonborn","Haunted One","Fighter","",1,21,16
+"753","Protector Aasimar","Hermit","Sorcerer","Divine Soul",1,26,15
+"754","Turtle","Acolyte","Barbarian","",1,11,9
+"755","Wood Elf","Far Traveler","Ranger","",1,9,16
+"756","Half-Elf","Urchin","Bard","",1,11,14
+"757","Aarakocra","Hermit","Monk","",1,9,16
+"758","Half-Orc","Outlander","Barbarian","",1,15,13
+"759","Wood Elf","Sage","Cleric","Life Domain",1,10,18
+"760","Dragonborn","Charlatan","Sorcerer","Draconic Bloodline",1,11,14
+"761","Half-Elf","Acolyte","Paladin","",1,11,18
+"762","Dragonborn","Haunted One","Warlock","The Hexblade",1,8,11
+"763","Half-Orc","Outlander","Barbarian","",1,14,13
+"764","Half-Elf","Entertainer","Warlock","The Hexblade|College of Swords",20,163,13
+"765","Sea Elf","Sailor","Ranger","Gloom Stalker|Scout",20,131,15
+"766","Firbolg","Outlander","Barbarian","Path of the Totem Warrior|Circle of the Moon",20,235,24
+"767","Goliath","Outlander","Fighter","Champion|Path of the Totem Warrior",20,247,24
+"768","Dragonborn","Outlander","Fighter","Champion|The Hexblade",20,155,16
+"769","Half-Elf","Urchin","Rogue","|Knowledge Domain|College of Lore",20,200,15
+"770","Tabaxi","Hermit","Artificer","Alchemist|Thief",20,167,15
+"771","Human","Faction Agent","Rogue","Assassin|Grave Domain|Monster Slayer",20,222,19
+"772","Variant","Entertainer","Bard","College of Lore|Arcane Archer|",20,214,16
+"773","Half-Elf","Urchin","Warlock","The Celestial|Divine Soul",20,88,16
+"774","Human","Bounty Hunter","Monk","Way of the Kensei|Scout",20,103,18
+"775","Human","Criminal","Fighter","Battle Master|Forge Domain",16,160,17
+"776","Wood Elf","Outlander","Monk","Way of the Kensei|Circle of the Moon",15,107,17
+"777","Human","Criminal","Paladin","Oath of Redemption|College of Lore|The Great Old One",15,122,16
+"778","Kishi","Politician","Bard","College of Whispers|",15,124,19
+"779","Half-Orc","Outlander","Paladin","Oath of Ancients|Path of the Ancestral Guardian",15,204,19
+"780","Half-Orc","Criminal","Rogue","Assassin|School of Enchantment",15,103,16
+"781","Human","Noble","Cleric","Light Domain|School of Divination",14,102,18
+"782","Dark Elf","Acolyte","Wizard","School of Necromancy|",13,82,15
+"783","Dragonborn","Knight","Paladin","|School of Conjuration",13,72,18
+"784","Human","Haunted One","Paladin","Oath of Redemption|The Hexblade",13,120,22
+"785","Goliath","Clan Crafter","Fighter","Champion|Path of the Berserker",13,118,19
+"786","Human","Clan Crafter","Monk","Way of the Four Elements|Path of the Totem Warrior",13,87,17
+"787","Human","Acolyte","Paladin","Oath of Devotion|Draconic Bloodline",12,96,19
+"788","Goliath","Clan Crafter","Fighter","Champion|Path of the Berserker",12,110,20
+"789","Half-Orc","Barbarian Tribe Member","Fighter","Champion|Path of the Berserker",12,133,16
+"790","Goblin","Criminal","Rogue","Assassin|Beast Conclave",12,29,16
+"791","Human","Hermit","Barbarian","Path of the Totem Warrior|College of Whispers|Way of the Kensei",12,95,17
+"792","Minotaur","Acolyte","Wizard","School of Necromancy|",12,78,19
+"793","Minotaur","Sage","Fighter","Battle Master|",12,82,16
+"794","Dragonborn","Sailor","Fighter","Sharpshooter|Hunter Conclave",12,113,18
+"795","Goliath","Barbarian Tribe Member","Fighter","Champion|Path of the Battlerager",12,104,18
+"796","Wood Elf","Courtier","Wizard","Bladesinging|War Domain|",12,64,21
+"797","Human","Criminal","Fighter","Battle Master|The Hexblade",12,80,17
+"798","Human","Courtier","Fighter","Purple Dragon Knight|College of Glamour",12,92,20
+"799","Ghastly Halfling","Criminal","Rogue","Assassin|Death Domain",12,87,15
+"800","Dragonborn","Sailor","Barbarian","Path of the Berserker|",11,53,24
+"801","Wood Elf","Haunted One","Ranger","Hunter|Assassin",11,116,16
+"802","Half-Elf","Outlander","Fighter","Eldritch Knight|The Fiend|Shadow Magic",11,87,16
+"803","Goliath","Entertainer","Barbarian","|College of Lore",10,89,13
+"804","Wood Elf","Acolyte","Ranger","Beast Master|The Great Old One",10,77,15
+"805","Dragonborn","Custom","Paladin","Oath of Ancients|Storm Sorcery",10,91,22
+"806","Human","Entertainer","Bard","College of Lore||Purple Dragon Knight",10,97,17
+"807","Kenku","Criminal","Rogue","Scout|Trickery Domain",10,53,14
+"808","Human","Acolyte","Sorcerer","Wild Magic|Way of the Sun Soul",10,95,19
+"809","Bugbear","Hermit","Fighter","Battle Master|College of Lore",9,82,17
+"810","Human","Acolyte","Paladin","Oath of Devotion|Draconic Bloodline",9,73,19
+"811","Human","Outlander","Rogue","Assassin|Arcane Archer",9,61,15
+"812","Human","Outlander","Fighter","Arcane Archer|Assassin",9,64,16
+"813","High Elf","Outlander","Fighter","Arcane Archer|Assassin",9,64,15
+"814","Turtle","Soldier","Barbarian","Path of the Totem Warrior|||Samurai",9,69,12
+"815","Turtle","Clan Crafter","Monk","Way of the Long Death|Light Domain",9,75,18
+"816","Forest Gnome","Haunted One","Rogue","Thief|Gloom Stalker|College of Lore",9,60,14
+"817","Goliath","Folk Hero","Barbarian","Path of the Totem Warrior|Circle of the Moon",8,69,14
+"818","naga","Outlander","Ranger","Beast Conclave|",8,93,14
+"819","Human","Criminal","Sorcerer","Shadow Magic|The Hexblade",8,52,16
+"820","Shadow Elf","Outlander","Rogue","Arcane Trickster|Champion",8,40,18
+"821","Hill Dwarf","Haunted One","Sorcerer","Draconic Bloodline|The Fiend",8,96,12
+"822","Firbolg","Charlatan","Druid","Circle of the Moon|Thief",8,72,16
+"823","Forest Gnome","Noble","Ranger","Hunter|",8,66,16
+"824","Tiefling","Haunted One","Fighter","|The Hexblade",8,58,17
+"825","Human","Criminal","Sorcerer","Shadow Magic|The Hexblade",8,52,16
+"826","Human","Custom","Paladin","|Divine Soul",8,56,21
+"827","Human","Custom","Bard","College of Lore|The Hexblade",8,51,18
+"828","Lizardfolk","Custom","Barbarian","Path of the Ancestral Guardian|Circle of the Moon",8,67,18
+"829","Serpentblood","Custom","Paladin","Oath of Ancients|Shadow Magic",8,66,23
+"830","Protector Aasimar","Far Traveler","Sorcerer","Divine Soul|Life Domain",7,54,20
+"831","Human","Haunted One","Bard","College of Swords|The Hexblade",7,24,20
+"832","Half-Orc","Urban Bounty Hunter","Rogue","Swashbuckler|",7,40,17
+"833","Human","Folk Hero","Wizard","School of Abjuration|The Archfey",7,25,16
+"834","Human","Soldier","Fighter","Battle Master|",7,70,17
+"835","Wood Elf","Urban Bounty Hunter","Rogue","Scout|The Hexblade",7,38,14
+"836","High Elf","Urban Bounty Hunter","Rogue","Scout|The Hexblade",7,38,15
+"837","Human","Urban Bounty Hunter","Fighter","Battle Master|The Hexblade",6,57,16
+"838","Tiefling","Soldier","Paladin","Oath of Conquest|War Magic",6,58,16
+"839","Human","Far Traveler","Barbarian","Path of the Totem Warrior|Way of the Drunken Master",6,53,16
+"840","Wood Elf","Criminal","Rogue","Scout|",6,72,16
+"841","Dragonborn","Mercenary Veteran","Fighter","|The Hexblade",6,48,19
+"842","Protector Aasimar","Acolyte","Cleric","Life Domain|",6,62,16
+"843","Dragonborn","Urban Bounty Hunter","Paladin","Oath of Vengeance|Shadow Magic",6,68,16
+"844","Tiefling","Urchin","Fighter","Eldritch Knight|",6,69,17
+"845","High Elf","Sage","Wizard","School of Evocation|",6,54,17
+"846","Goblin","Inheritor","Barbarian","Path of the Berserker|",6,64,15
+"847","Serpentblood","Soldier","Sorcerer","Wild Magic||",6,43,11
+"848","Half-Orc","Urban Bounty Hunter","Barbarian","|Gloom Stalker",6,76,17
+"849","Firbolg","Outlander","Monk","Way of the Sun Soul|Circle of the Moon",5,33,16
+"850","Ghastly Halfling","Hermit","Ranger","Hunter|",5,33,16
+"851","Variant","Criminal","Bard","College of Lore|The Great Old One",5,28,14
+"852","Tabaxi","Urban Bounty Hunter","Rogue","Assassin|The Hexblade",5,44,19
+"853","Dragonborn","Acolyte","Warlock","The Celestial|",5,36,13
+"854","Half-Elf","Entertainer","Bard","College of Glamour|The Archfey",5,38,15
+"855","Triton","Hermit","Sorcerer","Shadow Magic|",5,49,13
+"856","Forest Gnome","Charlatan","Rogue","Arcane Trickster|School of Illusion",5,31,14
+"857","Forest Gnome","Inheritor","Ranger","|Assassin",5,36,13
+"858","Goblin","Entertainer","Bard","College of Whispers|The Hexblade",5,42,15
+"859","Human","Knight","Fighter","Battle Master|Order of the Immortal",5,53,15
+"860","Goliath","Custom","Barbarian","|College of Lore",5,73,20
+"861","Human","Folk Hero","Ranger","|The Archfey",5,36,16
+"862","Dragonborn","Mercenary Veteran","Fighter","|The Hexblade",5,41,18
+"863","Half-Orc","Far Traveler","Druid","Circle of the Moon|Way of Shadow",5,43,17
+"864","Goliath","Sailor","Fighter","|Path of the Battlerager",5,60,18
+"865","Half-Orc","Clan Crafter","Paladin","Oath of Devotion|Divine Soul",5,42,19
+"866","Tiefling","Urban Bounty Hunter","Fighter","Battle Master|",4,37,16
+"867","Human","Entertainer","Cleric","Life Domain|College of Lore",4,35,18
+"868","Tiefling","Charlatan","Warlock","The Fiend|Divine Soul",4,35,12
+"869","Lightfoot Halfling","Urban Bounty Hunter","Fighter","|",4,30,16
+"870","Half-Orc","Barbarian Tribe Member","Barbarian","|Samurai",4,54,18
+"871","Lightfoot Halfling","Urban Bounty Hunter","Fighter","|",4,34,14
+"872","Human","Custom","Monk","|Bladesinging",4,25,14
+"873","Human","Far Traveler","Druid","Circle of the Moon|",4,33,15
+"874","Tosculi","Mercenary Veteran","Ranger","Beast Conclave|",4,30,17
+"875","Human Variant","Outlander","Fighter","|",3,29,17
+"876","Human","Acolyte","Barbarian","|Circle of the Moon",3,25,11
+"877","Human","Urchin","Rogue","|",3,25,14
+"878","Human","Criminal","Fighter","|",3,35,22
+"879","Dark Elf","Courtier","Fighter","|",3,26,17
+"880","Wood Elf","Noble","Druid","Circle of the Moon|",3,24,16
+"881","Human","Criminal","Fighter","|Tempest Domain",3,20,17
+"882","Variant","Faction Agent","Paladin","|The Archfey",3,27,18
+"883","Firbolg","Haunted One","Druid","Circle of the Moon|",3,28,15
+"884","Human","Noble","Fighter","|",2,15,16
+"885","Mountain Dwarf","Criminal","Fighter","|",2,23,16
